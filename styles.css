@@ -280,7 +280,7 @@ a { color: inherit; }
   margin: 14px 0 0;
   color: #b9bdb9;
   font-size: clamp(15px, 1.2vw, 18px);
-  line-height: 1.35;
+  line-height: 1.6;
   letter-spacing: -0.022em;
 }
 .bio em { font-style: normal; }
