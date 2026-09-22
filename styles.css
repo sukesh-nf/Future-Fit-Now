@@ -148,7 +148,17 @@ a { color: inherit; }
   letter-spacing: -0.02em;
 }
 .wide-copy { max-width: 790px; margin-top: -3px; }
+.wide-copy + .wide-copy { margin-top: 16px; }
 .help-intro { margin-bottom: 50px; }
+.help-footnote {
+  max-width: 820px;
+  margin: 40px 0 0;
+  color: var(--grey);
+  font-size: clamp(15px, 1.15vw, 17px);
+  line-height: 1.5;
+  letter-spacing: -0.022em;
+  font-style: italic;
+}
 
 .card {
   background: var(--white);
