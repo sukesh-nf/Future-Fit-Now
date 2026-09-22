@@ -272,6 +272,7 @@ a { color: inherit; }
   letter-spacing: -0.035em;
 }
 .quote-card figcaption { margin-top: 34px; color: var(--grey); font-size: 15px; font-weight: 700; }
+.testimonial-extra { margin-top: 48px; }
 
 .meet { min-height: 100vh; }
 .meet .page-shell { padding-inline: clamp(22px, 5.3vw, 76px); }
